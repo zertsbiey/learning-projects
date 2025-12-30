@@ -1,2 +1,7 @@
-# learning-projects
-个人学习与实践项目
+# Learning Projects
+
+本仓库用于记录个人学习和实践中的一些小项目。
+
+## 说明
+- 技术学习用途
+- 非商业项目
